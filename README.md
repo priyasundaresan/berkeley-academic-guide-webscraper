@@ -2,9 +2,9 @@
 A webscraper for the [Berkeley Academic Guide](guide.berkeley.edu) that summarizes departmental course info for easy viewing
 
 ## Files
-* main.py
-* style.css
-* test.html
+* main.py – scrapes information off of Berkeley Academic Guide
+* style.css – styles the final table
+* test.html – where the summary table is generated; this is eventually opened in the browser
 
 ## Download
 ```
@@ -28,7 +28,7 @@ $ pip install yattag
 ```
 url = "http://guide.berkeley.edu/courses/bio_eng/"
 ```
-* Navigate to the directory containing main.py, style.css, test.html and run the following:
+* Navigate to the directory containing main.py, style.css, test.html and run the following in Terminal:
 ```
 $ python3 main.py
 ```
