@@ -3,7 +3,6 @@ A webscraper for the [Berkeley Academic Guide](guide.berkeley.edu) that summariz
 
 ## Files
 * main.py – scrapes information off of Berkeley Academic Guide
-* style.css – styles the final table
 * test.html – where the summary table is generated; this is eventually opened in the browser
 
 ## Download
