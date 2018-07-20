@@ -32,4 +32,4 @@ url = "http://guide.berkeley.edu/courses/bio_eng/"
 $ python3 main.py
 ```
 * A browser window will automatically open with the generated HTML table, refresh page if needed
-![Screenshot](screenshot/grid.png)
+![Screenshot](screenshot/samplegrid.png)
