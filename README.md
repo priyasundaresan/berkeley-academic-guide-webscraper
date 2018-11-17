@@ -1,5 +1,5 @@
 # berkeley-academic-guide-webscraper
-A webscraper for the [Berkeley Academic Guide](http://guide.berkeley.edu) that summarizes departmental course info for easy viewing
+A webscraper for the [Berkeley Academic Guide](http://guide.berkeley.edu) that summarizes departmental course info for easy viewing, useful during enrollment periods when you need a quick overview of classes offered rather than long descriptions!
 
 ## Files
 * main.py – scrapes information off of Berkeley Academic Guide
